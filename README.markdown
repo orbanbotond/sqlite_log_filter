@@ -21,7 +21,11 @@ Then this gem is for you.
 Usage
 -----
 In our gemfile place this line
+
     gem 'sqlite_log_filter'
+    
 then
+
     bundle
+    
 and no more log messages.
